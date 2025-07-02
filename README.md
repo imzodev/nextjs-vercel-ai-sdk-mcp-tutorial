@@ -15,7 +15,7 @@ Este proyecto es una demostración de cómo integrar el Vercel AI SDK con MCP Se
 
 **¡Ya está disponible el video de este tutorial en YouTube!**
 
-[![Ver en YouTube](https://img.shields.io/badge/Ver_en_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=7IAZYRKqtl0)
+[![Ver en YouTube](https://img.shields.io/badge/Ver_en_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/OaGy4JPNWXE)
 
 
 ## 🚀 Características
